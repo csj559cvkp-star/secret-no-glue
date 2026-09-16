@@ -1,0 +1,1 @@
+window.PF_ASSETS={};
