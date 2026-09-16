@@ -1,0 +1,36 @@
+/* Desktop and wide-screen polish */
+@media (min-width: 900px){
+  .hero{padding:64px 48px;min-height:100vh}
+  .hero .inner{width:min(980px,92vw)}
+  .paper{padding:110px 48px;min-height:100vh}
+  .card{width:min(900px,82vw)}
+  .messages{padding:120px 48px 130px}
+  .wrap{width:min(1180px,92vw)}
+  .group{padding:46px 48px}
+  .letters{gap:20px;justify-content:center}
+  .envelope{width:142px;height:96px}
+  .cake{padding:110px 48px;min-height:100vh}
+  .cakewrap{width:min(940px,90vw)}
+  .stage{width:min(560px,100%);min-height:470px}
+  .cakeimg{width:min(100%,430px)}
+  .myletter{padding:110px 48px;min-height:100vh}
+  .myletterbox{width:min(960px,88vw)}
+  .falseend{padding:90px 48px;min-height:100vh}
+  .callie{padding:100px 48px 120px}
+  .calliewrap{width:min(900px,88vw)}
+  .callieletter{width:min(760px,82vw)}
+  .trueend{padding:110px 48px 130px}
+  .letterpaper{width:min(760px,78vw);max-height:86vh}
+}
+@media (min-width: 1200px){
+  .hero .inner{width:min(1040px,86vw)}
+  .messages .wrap{width:min(1240px,88vw)}
+  .card{width:min(920px,76vw)}
+  .myletterbox{width:min(1040px,84vw)}
+  .letterpaper{width:min(800px,70vw)}
+}
+@media (min-width: 1600px){
+  .hero .inner,.messages .wrap,.cakewrap{max-width:1280px}
+  .card{max-width:980px}
+  .myletterbox{max-width:1100px}
+}
