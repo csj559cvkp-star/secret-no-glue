@@ -1,0 +1,1 @@
+var a=document.createElement('script');a.src='birthday-music-base.js?v=final';a.onload=function(){var b=document.createElement('script');b.src='personal-final.js?v=final';document.head.appendChild(b)};document.head.appendChild(a);
