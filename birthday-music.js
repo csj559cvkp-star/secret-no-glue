@@ -1,1 +1,1 @@
-(()=>{const a=document.createElement('script');a.src='birthday-music-base.js?v=20260916g';a.onload=()=>{const b=document.createElement('script');b.src='personal-final.js?v=20260916g';document.head.appendChild(b)};document.head.appendChild(a)})();
+(()=>{const a=document.createElement('script');a.src='birthday-music-base.js?v=20260916i';a.onload=()=>{const b=document.createElement('script');b.src='personal-final.js?v=20260916i';document.head.appendChild(b)};document.head.appendChild(a)})();
