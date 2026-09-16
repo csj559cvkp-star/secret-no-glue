@@ -1,0 +1,1 @@
+document.write('<script src="birthday-music.js"></'+'script>');
